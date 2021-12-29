@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KhanyiT
 - 👀 I’m interested in Web Development and Data Analytics
 - 🌱 I’m currently learning Java,Python, R and Full Stack Web Development
+- Also a 2nd year IT student
 - 💞️ I’m looking to collaborate on Junior Projects 
 - 📫 How to reach me: ptshibi@gmail.com
 
